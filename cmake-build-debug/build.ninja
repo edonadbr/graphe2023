@@ -102,6 +102,14 @@ build CMakeFiles/graphe2023.dir/Point.cpp.o: CXX_COMPILER__graphe2023_Debug /Use
   OBJECT_DIR = CMakeFiles/graphe2023.dir
   OBJECT_FILE_DIR = CMakeFiles/graphe2023.dir
 
+build CMakeFiles/graphe2023.dir/MyWindow.cpp.o: CXX_COMPILER__graphe2023_Debug /Users/edonadibra/Documents/L3/graphe2023/MyWindow.cpp || cmake_object_order_depends_target_graphe2023
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/graphe2023.dir/MyWindow.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.4 -fcolor-diagnostics -std=gnu++17
+  INCLUDES = -I/Users/edonadibra/Documents/L3/graphe2023/cmake-build-debug/graphe2023_autogen/include -isystem /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Headers -iframework /Users/edonadibra/Qt/6.5.0/macos/lib -isystem /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Headers -isystem /Users/edonadibra/Qt/6.5.0/macos/mkspecs/macx-clang -isystem /Users/edonadibra/Qt/6.5.0/macos/include -isystem /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Headers
+  OBJECT_DIR = CMakeFiles/graphe2023.dir
+  OBJECT_FILE_DIR = CMakeFiles/graphe2023.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target graphe2023
@@ -110,7 +118,7 @@ build CMakeFiles/graphe2023.dir/Point.cpp.o: CXX_COMPILER__graphe2023_Debug /Use
 #############################################
 # Link the executable graphe2023
 
-build graphe2023: CXX_EXECUTABLE_LINKER__graphe2023_Debug CMakeFiles/graphe2023.dir/graphe2023_autogen/mocs_compilation.cpp.o CMakeFiles/graphe2023.dir/main.cpp.o CMakeFiles/graphe2023.dir/Sommet.cpp.o CMakeFiles/graphe2023.dir/Arc.cpp.o CMakeFiles/graphe2023.dir/Graphe.cpp.o CMakeFiles/graphe2023.dir/Algorithme.cpp.o CMakeFiles/graphe2023.dir/Point.cpp.o | /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/QtGui /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/QtCore || graphe2023_autogen graphe2023_autogen_timestamp_deps
+build graphe2023: CXX_EXECUTABLE_LINKER__graphe2023_Debug CMakeFiles/graphe2023.dir/graphe2023_autogen/mocs_compilation.cpp.o CMakeFiles/graphe2023.dir/main.cpp.o CMakeFiles/graphe2023.dir/Sommet.cpp.o CMakeFiles/graphe2023.dir/Arc.cpp.o CMakeFiles/graphe2023.dir/Graphe.cpp.o CMakeFiles/graphe2023.dir/Algorithme.cpp.o CMakeFiles/graphe2023.dir/Point.cpp.o CMakeFiles/graphe2023.dir/MyWindow.cpp.o | /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/QtGui /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/QtCore || graphe2023_autogen graphe2023_autogen_timestamp_deps
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.4
   LINK_LIBRARIES = -Wl,-rpath,/Users/edonadibra/Qt/6.5.0/macos/lib  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets  /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/QtGui  /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/QtCore  -framework IOKit  -framework DiskArbitration  -Xlinker -framework -Xlinker OpenGL  -Xlinker -framework -Xlinker AGL  -framework AppKit  -framework ImageIO  -framework Metal
   LINK_PATH = -F/Users/edonadibra/Qt/6.5.0/macos/lib
@@ -169,7 +177,7 @@ build graphe2023_autogen/timestamp graphe2023_autogen/mocs_compilation.cpp | ${c
 #############################################
 # Phony custom command for CMakeFiles/graphe2023_autogen_timestamp_deps
 
-build CMakeFiles/graphe2023_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/graphe2023_autogen_timestamp_deps: phony /Users/edonadibra/Qt/6.5.0/macos/./libexec/moc /Users/edonadibra/Qt/6.5.0/macos/./libexec/uic /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets
+build CMakeFiles/graphe2023_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/graphe2023_autogen_timestamp_deps: phony /Users/edonadibra/Qt/6.5.0/macos/./libexec/uic /Users/edonadibra/Qt/6.5.0/macos/./libexec/moc /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/QtWidgets
 
 
 #############################################

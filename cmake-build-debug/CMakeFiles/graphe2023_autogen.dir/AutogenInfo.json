@@ -290,6 +290,12 @@
 			null
 		],
 		[
+			"/Users/edonadibra/Documents/L3/graphe2023/MyWindow.h",
+			"MU",
+			"EWIEGA46WW/moc_MyWindow.cpp",
+			null
+		],
+		[
 			"/Users/edonadibra/Documents/L3/graphe2023/Point.h",
 			"MU",
 			"EWIEGA46WW/moc_Point.cpp",
@@ -366,6 +372,7 @@
 		],
 		[ "/Users/edonadibra/Documents/L3/graphe2023/Arc.cpp", "MU", null ],
 		[ "/Users/edonadibra/Documents/L3/graphe2023/Graphe.cpp", "MU", null ],
+		[ "/Users/edonadibra/Documents/L3/graphe2023/MyWindow.cpp", "MU", null ],
 		[ "/Users/edonadibra/Documents/L3/graphe2023/Point.cpp", "MU", null ],
 		[ "/Users/edonadibra/Documents/L3/graphe2023/Sommet.cpp", "MU", null ],
 		[ "/Users/edonadibra/Documents/L3/graphe2023/main.cpp", "MU", null ]

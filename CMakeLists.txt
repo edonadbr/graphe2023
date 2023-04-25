@@ -10,6 +10,6 @@ set(CMAKE_PREFIX_PATH "/Users/edonadibra/Qt/6.5.0/macos/lib/cmake")
 
 find_package(Qt6 COMPONENTS Widgets REQUIRED)
 
-add_executable(graphe2023 main.cpp Point.h Sommet.h Sommet.cpp Arc.cpp Arc.h Graphe.cpp Graphe.h Algorithme.cpp Algorithme.h Point.cpp )
+add_executable(graphe2023 main.cpp Point.h Sommet.h Sommet.cpp Arc.cpp Arc.h Graphe.cpp Graphe.h Algorithme.cpp Algorithme.h Point.cpp MyWindow.cpp MyWindow.h MyWindow.cpp MyWindow.cpp MyWindow.cpp MyWindow.cpp MyWindow.cpp MyWindow.cpp MyWindow.cpp)
 
 target_link_libraries(graphe2023 Qt6::Widgets)

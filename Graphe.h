@@ -9,6 +9,7 @@
 
 class Graphe {
 public:
+    Graphe();
     Graphe(vector<vector<int>>matrice, bool est_oriente, bool avec_Poids);
     Graphe(std::vector<int> aps, std::vector<int> fs, bool est_oriente);
     Graphe(bool est_oriente, bool avec_Poids);

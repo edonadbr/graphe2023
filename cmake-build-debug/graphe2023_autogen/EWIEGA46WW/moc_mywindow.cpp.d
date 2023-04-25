@@ -5,10 +5,7 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/AvailabilityMacros.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/AvailabilityVersions.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/TargetConditionals.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/_locale.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/_types/_nl_item.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/_xlocale.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/assert.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__algorithm/all_of.h \
@@ -106,11 +103,9 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__availability \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__bit_reference \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__bits \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__config_site \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__debug \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__errc \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__function_like.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__functional/binary_function.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__functional/binary_negate.h \
@@ -169,7 +164,6 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__iterator/size.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__iterator/wrap_iter.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__locale \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__mbstate_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__memory/addressof.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__memory/allocation_guard.h \
@@ -187,7 +181,6 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__memory/uninitialized_algorithms.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__memory/unique_ptr.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__memory/uses_allocator.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__mutex_base \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__node_handle \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__nullptr \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h \
@@ -219,10 +212,8 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/algorithm \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/array \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/atomic \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/bitset \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/cassert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/cctype \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/cerrno \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/chrono \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/climits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/cmath \
@@ -241,24 +232,17 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/exception \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/functional \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/initializer_list \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/ios \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/iosfwd \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/iostream \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/istream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/iterator \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/limits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/limits.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/list \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/locale \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/locale.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/map \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/math.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/memory \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/mutex \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/new \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/numeric \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/optional \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/ostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/ratio \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/stdbool.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/stddef.h \
@@ -266,11 +250,9 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/stdint.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/stdlib.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/streambuf \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/string \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/string.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/string_view \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/system_error \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/tuple \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/type_traits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/typeinfo \
@@ -281,19 +263,13 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/wchar.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/c++/v1/wctype.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/i386/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/i386/endian.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/i386/types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/libkern/_OSByteOrder.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/libkern/i386/_OSByteOrder.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/machine/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/machine/endian.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/machine/types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/nl_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/pthread/pthread.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/pthread/pthread_impl.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/pthread/qos.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/pthread/sched.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_endian.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_posix_availability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_pthread/_pthread_attr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_pthread/_pthread_cond_t.h \
@@ -308,70 +284,29 @@
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_pthread/_pthread_types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_symbol_aliasing.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_blkcnt_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_blksize_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_caddr_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_clock_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_dev_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_errno_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_fd_clr.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_fd_copy.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_fd_def.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_fd_isset.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_fd_set.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_fd_setsize.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_fd_zero.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_fsblkcnt_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_fsfilcnt_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_gid_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_id_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_in_addr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_in_port_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_ino64_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_ino_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_int16_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_int32_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_int64_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_int8_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_intptr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_key_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_mach_port_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_mode_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_nlink_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_null.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_off_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_pid_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_rsize_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_sigset_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_size_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_ssize_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_suseconds_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_time_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_timespec.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_u_char.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_u_int.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_u_int16_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_u_int32_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_u_int64_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_u_int8_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_u_short.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_uid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_uintptr_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/_types/_useconds_t.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/appleapiopts.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/cdefs.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/qos.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/sys/types.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/time.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/xlocale.h \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX13.0.sdk/usr/include/xlocale/_time.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdarg.h \
-  /Users/edonadibra/Documents/L3/graphe2023/Graphe.h \
-  /Users/edonadibra/Documents/L3/graphe2023/Point.h \
-  /Users/edonadibra/Documents/L3/graphe2023/Sommet.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qabstractitemmodel.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
@@ -410,12 +345,10 @@
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qitemselectionmodel.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qline.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qlist.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qmap.h \
@@ -436,7 +369,6 @@
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qrect.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qrefcount.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qregularexpression.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qset.h \
@@ -475,7 +407,6 @@
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qurl.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
@@ -494,48 +425,20 @@
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qpen.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qregion.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qtextcursor.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qtextdocument.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qtextformat.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qtextoption.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qtgui-config.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qvalidator.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QCheckBox \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QLineEdit \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QListWidget \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QPushButton \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/QWidget \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractbutton.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemdelegate.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemview.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractscrollarea.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractslider.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractspinbox.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qcheckbox.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qlineedit.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qlistview.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qlistwidget.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qpushbutton.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qrubberband.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qslider.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qstyle.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qstyleoption.h \
-  /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtabbar.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
   /Users/edonadibra/Qt/6.5.0/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h \

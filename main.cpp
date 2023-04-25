@@ -1,6 +1,6 @@
 #include <QApplication>
-#include <QWidget>
-#include <QPushButton>
+#include <QApplication>
+#include "MyWindow.h"
 
 #include <iostream>
 #include <vector>
@@ -473,7 +473,10 @@ int main(int argc, char *argv[]) {
                  }
                  */
 
-
+                QApplication app(argc, argv);
+                MyWindow window;
+                window.show();
+                return app.exec();
 
                 Graphe G(est_oriente, avec_Poids);
 

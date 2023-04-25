@@ -11,6 +11,9 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QMainWindow>
+#include <QtWidgets/QMenuBar>
+#include <QtWidgets/QStatusBar>
 #include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -18,19 +21,32 @@ QT_BEGIN_NAMESPACE
 class Ui_MyWindow
 {
 public:
+    QWidget *centralwidget;
+    QMenuBar *menubar;
+    QStatusBar *statusbar;
 
-    void setupUi(QWidget *MyWindow)
+    void setupUi(QMainWindow *MyWindow)
     {
         if (MyWindow->objectName().isEmpty())
             MyWindow->setObjectName("MyWindow");
         MyWindow->resize(400, 300);
+        centralwidget = new QWidget(MyWindow);
+        centralwidget->setObjectName("centralwidget");
+        MyWindow->setCentralWidget(centralwidget);
+        menubar = new QMenuBar(MyWindow);
+        menubar->setObjectName("menubar");
+        menubar->setGeometry(QRect(0, 0, 400, 17));
+        MyWindow->setMenuBar(menubar);
+        statusbar = new QStatusBar(MyWindow);
+        statusbar->setObjectName("statusbar");
+        MyWindow->setStatusBar(statusbar);
 
         retranslateUi(MyWindow);
 
         QMetaObject::connectSlotsByName(MyWindow);
     } // setupUi
 
-    void retranslateUi(QWidget *MyWindow)
+    void retranslateUi(QMainWindow *MyWindow)
     {
         MyWindow->setWindowTitle(QCoreApplication::translate("MyWindow", "MyWindow", nullptr));
     } // retranslateUi

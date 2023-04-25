@@ -43,6 +43,8 @@ graphe2023_autogen/timestamp: \
   /Users/edonadibra/Documents/L3/graphe2023/CMakeLists.txt \
   /Users/edonadibra/Documents/L3/graphe2023/Graphe.cpp \
   /Users/edonadibra/Documents/L3/graphe2023/Graphe.h \
+  /Users/edonadibra/Documents/L3/graphe2023/MyWindow.cpp \
+  /Users/edonadibra/Documents/L3/graphe2023/MyWindow.h \
   /Users/edonadibra/Documents/L3/graphe2023/Point.cpp \
   /Users/edonadibra/Documents/L3/graphe2023/Point.h \
   /Users/edonadibra/Documents/L3/graphe2023/Sommet.cpp \

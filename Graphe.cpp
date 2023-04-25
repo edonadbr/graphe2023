@@ -8,7 +8,14 @@
 
 using namespace std;
 
-
+Graphe::Graphe() {
+    // Initialisation des attributs de l'objet Graphe
+    d_est_oriente = false;
+    d_avec_Poids = false;
+    d_matrice[0][0]=0;
+    d_matrice_cout [0][0]= 0;
+    d_listeSommet [0]= nullptr;
+}
 Graphe::Graphe(std::vector<std::vector<int>> matrice, bool est_oriente, bool avec_Poids): d_matrice(matrice),
 d_est_oriente(est_oriente), d_avec_Poids(avec_Poids) {
     int ligne = matrice.size();
